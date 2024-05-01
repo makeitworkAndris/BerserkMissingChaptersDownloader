@@ -1,14 +1,13 @@
 package org.example;
 
 import java.io.*;
-import java.net.MalformedURLException;
 import java.net.URL;
 import java.nio.file.FileAlreadyExistsException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.Scanner;
 
-public class Main {
+public class MainClass {
 
     static int startNumber = 307;
     //376 is the latest in: 2024-05-01
